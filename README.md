@@ -9,3 +9,5 @@ Working of the RSHINy APP:
 
 First, the input data is uploaded, a CSV file having one or more inputs.
 ![image](https://user-images.githubusercontent.com/46936497/68316179-eab20200-00b0-11ea-8e21-ec35e8bc06c3.png)
+While the data is processed, and the model runs for predictions, the app displays computing progress.
+Finally the prediction is displayed as results.
