@@ -1,5 +1,4 @@
 # Fake-News-Detection
-# Fake-News-Detection
 This project aims to build a model that has practical potential to detect the subtleties inherent in fake news captured by the unique features selected and differentiate between fake news and real news.
 A comparative study was performed using state-of-the-art algorithms to find the optimally performing model for the methodology selected, supervised learning with source credibility, emotion detection and content-based modelling. Implement the optimally performing model using RShiny as a prototype fake news detecting app.
 As per my hypothesis, Deep Learning outperformed more traditional algorithms in identifying patterns with distinct and weak features taken from different methodologies.
