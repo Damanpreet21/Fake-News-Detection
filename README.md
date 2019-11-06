@@ -5,3 +5,7 @@ As per my hypothesis, Deep Learning outperformed more traditional algorithms in 
 Data is pre-processed using various NLP processes in R and additional features are extracted using RapidMiner.
 The model is prototyped in R and an MLP Deep learning model is implememted in R with an accuracy of about 80%.
 Finally an RShiny application is built that performs real time Fake News Detection.
+Working of the RSHINy APP:
+
+First, the input data is uploaded, a CSV file having one or more inputs.
+![image](https://user-images.githubusercontent.com/46936497/68316179-eab20200-00b0-11ea-8e21-ec35e8bc06c3.png)
